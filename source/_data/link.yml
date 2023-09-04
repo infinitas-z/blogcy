@@ -1,0 +1,7 @@
+- class_name: 友情鏈接
+  class_desc: 特别关心
+  link_list:
+    - name: infinitas
+      link: http://infinitas.top
+      avatar: https://pic2.imgdb.cn/item/644fb3bb0d2dde57776bc4d4.png
+      descr: "欢迎来到我的博客!"
